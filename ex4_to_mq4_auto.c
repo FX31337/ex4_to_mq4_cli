@@ -19,7 +19,7 @@
 //L"D:\\prj\\cl workspace\\ex4_to_mq4_auto\\Debug\\Foo.ex4"
 
 #define WND_NAME "EX4-TO-MQ4 Decompiler (https://purebeam.biz)"
-#define EXE_NAME "ex4_to_mq4_demo.exe"
+#define EXE_NAME "ex4_to_mq4.exe"
 
 //#define WND_NAME "NotePAD"
 //#define EXE_NAME "notepad.exe"
